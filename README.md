@@ -18,4 +18,4 @@ $ npm i --save @ngx-canvas/core
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
-[![DEONATE](https://raw.githubusercontent.com/ngx-canvas/core/master/projects/demo/src/assets/donate.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZVDGBQ9HJCE4Y&source=url)
+[![DEONATE](https://raw.githubusercontent.com/ngx-canvas/core/master/projects/demo/src/assets/donate.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZVDGBQ9HJCE4Y&source=url) [![Join the chat at https://gitter.im/ngx-canvas/core](https://badges.gitter.im/ngx-canvas/core.svg)](https://gitter.im/ngx-canvas/core?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
